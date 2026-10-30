@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- O ícone da notificação só é citado no código Dart. Sem esta linha,
+     a versão release poderia removê-lo por considerá-lo sem uso. -->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/ic_notificacao_localizacao" />
