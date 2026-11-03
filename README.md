@@ -3,12 +3,12 @@
 Aplicativo Flutter (Android) que coleta a localização do aparelho a cada 20 segundos, salva as posições em um banco SQLite e as apresenta em uma lista e em um mapa interativo.
 
 Atividade 1 – Coleta e visualização de localizações  
-Programação para Dispositivos Móveis II – Prof. Arley – FATEC Jacareí
+Programação para Dispositivos Móveis II – Prof. Arley – FATEC Jacareí - DSM
 
 ## Integrantes
 
 - Carlos Eduardo da Silva Magalhães
-- Andressa Stephane Toledo da Silva
+- Andressa Stéphane Toledo da Silva
 
 ## Funcionalidades
 
@@ -48,5 +48,6 @@ lib/
     ├── services/         # Localização e cache do mapa
     └── presentation/     # Telas e widgets
 ```
+
 
 Mapa: © colaboradores do [OpenStreetMap](https://www.openstreetmap.org/copyright).
